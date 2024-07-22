@@ -26,6 +26,3 @@ jobs:
 
       - name: Run tests
         run: npm test
-
-      - name: Build and deploy (dummy step)
-        run: echo "Build and deploy step (to be implemented)"
